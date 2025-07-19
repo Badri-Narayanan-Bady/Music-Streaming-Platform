@@ -1,0 +1,452 @@
+[
+  {
+    "id": "5",
+    "title": "Enjoy Enjaami",
+    "artist": "Dhee, Arivu, Santosh Narayanan",
+    "album": "Independent",
+    "coverUrl": "/music/covers/enjoy-enjaami.webp",
+    "audioUrl": "/music/Enjoy Enjaami.mp3",
+    "genre": "Tamil",
+    "year": 2021
+  },
+  {
+    "id": "6",
+    "title": "Vaathi Coming",
+    "artist": "Anirudh Ravichander",
+    "album": "Master",
+    "coverUrl": "/music/covers/vaathi-coming.webp",
+    "audioUrl": "/music/Vaathi Coming.mp3",
+    "genre": "Tamil",
+    "year": 2021
+  },
+  {
+    "id": "7",
+    "title": "Kutti Story",
+    "artist": "Anirudh Ravichander",
+    "album": "Master",
+    "coverUrl": "/music/covers/kutti-story.webp",
+    "audioUrl": "/music/Kutti Story.mp3",
+    "genre": "Tamil",
+    "year": 2021
+  },
+  {
+    "id": "8",
+    "title": "Naanga Vera Maari",
+    "artist": "Yuvan Shankar Raja",
+    "album": "Valimai",
+    "coverUrl": "/music/covers/naanga-vera-maari.webp",
+    "audioUrl": "/music/Naanga Vera Maari.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "9",
+    "title": "Arabic Kuthu",
+    "artist": "Anirudh Ravichander",
+    "album": "Beast",
+    "coverUrl": "/music/covers/arabic-kuthu.webp",
+    "audioUrl": "/music/Arabic Kuthu.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "10",
+    "title": "Jolly O Gymkhana",
+    "artist": "Anirudh Ravichander",
+    "album": "Beast",
+    "coverUrl": "/music/covers/jolly-o-gymkhana.webp",
+    "audioUrl": "/music/Jolly O Gymkhana.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "11",
+    "title": "Pathala Pathala",
+    "artist": "Anirudh Ravichander",
+    "album": "Vikram",
+    "coverUrl": "/music/covers/pathala-pathala.webp",
+    "audioUrl": "/music/Pathala Pathala.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "12",
+    "title": "Porkanda Singam",
+    "artist": "Anirudh Ravichander",
+    "album": "Vikram",
+    "coverUrl": "/music/covers/porkanda-singam.webp",
+    "audioUrl": "/music/Porkanda Singam.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "13",
+    "title": "Vikram Title Track",
+    "artist": "Anirudh Ravichander",
+    "album": "Vikram",
+    "coverUrl": "/music/covers/vikram-title-track.webp",
+    "audioUrl": "/music/Vikram Title Track.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "14",
+    "title": "Megham Karukatha",
+    "artist": "Anirudh Ravichander",
+    "album": "Thiruchitrambalam",
+    "coverUrl": "/music/covers/megham-karukatha.webp",
+    "audioUrl": "/music/Megham Karukatha.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "15",
+    "title": "Thaai Kelavi",
+    "artist": "Anirudh Ravichander",
+    "album": "Thiruchitrambalam",
+    "coverUrl": "/music/covers/thaai-kelavi.webp",
+    "audioUrl": "/music/Thaai Kelavi.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "16",
+    "title": "Kaavaalaa",
+    "artist": "Anirudh Ravichander",
+    "album": "Jailer",
+    "coverUrl": "/music/covers/kaavaalaa.webp",
+    "audioUrl": "/music/Kaavaalaa.mp3",
+    "genre": "Tamil",
+    "year": 2023
+  },
+  {
+    "id": "17",
+    "title": "Katchi Sera",
+    "artist": "Sai Abhyankkar",
+    "album": "Independent",
+    "coverUrl": "/music/covers/katchi-sera.webp",
+    "audioUrl": "/music/Katchi Sera.mp3",
+    "genre": "Tamil",
+    "year": 2024
+  },
+  {
+    "id": "18",
+    "title": "Hukum",
+    "artist": "Anirudh Ravichander",
+    "album": "Jailer",
+    "coverUrl": "/music/covers/hukum.webp",
+    "audioUrl": "/music/Hukum.mp3",
+    "genre": "Tamil",
+    "year": 2023
+  },
+  {
+    "id": "19",
+    "title": "Leo Title Track (Badass)",
+    "artist": "Anirudh Ravichander",
+    "album": "Leo",
+    "coverUrl": "/music/covers/leo-title-track-badass.webp",
+    "audioUrl": "/music/Leo Title Track (Badass).mp3",
+    "genre": "Tamil",
+    "year": 2023
+  },
+  {
+    "id": "20",
+    "title": "Aga Naga",
+    "artist": "A.R. Rahman",
+    "album": "Ponniyin Selvan I",
+    "coverUrl": "/music/covers/aga-naga.webp",
+    "audioUrl": "/music/Aga Naga.mp3",
+    "genre": "Tamil",
+    "year": 2022
+  },
+  {
+    "id": "21",
+    "title": "Thalli Pogathey",
+    "artist": "A.R. Rahman",
+    "album": "Achcham Yenbadhu Madamaiyada",
+    "coverUrl": "/music/covers/thalli-pogathey.webp",
+    "audioUrl": "/music/Thalli Pogathey.mp3",
+    "genre": "Tamil",
+    "year": 2016
+  },
+  {
+    "id": "22",
+    "title": "En Peru Meenakumari",
+    "artist": "Deva",
+    "album": "Vazhkai",
+    "coverUrl": "/music/covers/en-peru-meenakumari.webp",
+    "audioUrl": "/music/En Peru Meenakumari.mp3",
+    "genre": "Tamil",
+    "year": 2007
+  },
+  {
+    "id": "23",
+    "title": "En Veetu Thottathil",
+    "artist": "A.R. Rahman",
+    "album": "Gentleman",
+    "coverUrl": "/music/covers/en-veetu-thottathil.webp",
+    "audioUrl": "/music/En Veetu Thottathil.mp3",
+    "genre": "Tamil",
+    "year": 1993
+  },
+  {
+    "id": "24",
+    "title": "Maari Thara Local",
+    "artist": "Anirudh Ravichander",
+    "album": "Maari",
+    "coverUrl": "/music/covers/maari-thara-local.webp",
+    "audioUrl": "/music/Maari Thara Local.mp3",
+    "genre": "Tamil",
+    "year": 2015
+  },
+  {
+    "id": "25",
+    "title": "Naanum Rowdy Dhaan",
+    "artist": "Anirudh Ravichander",
+    "album": "Naanum Rowdy Dhaan",
+    "coverUrl": "/music/covers/naanum-rowdy-dhaan.webp",
+    "audioUrl": "/music/Naanum Rowdy Dhaan.mp3",
+    "genre": "Tamil",
+    "year": 2015
+  },
+  {
+  "id": "26",
+  "title": "The Way I Am",
+  "artist": "Eminem",
+  "album": "The Marshall Mathers LP",
+  "coverUrl": "/music/covers/the-way-i-am.webp",
+  "audioUrl": "/music/The Way I Am.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2000
+},
+{
+  "id": "27",
+  "title": "Godzilla",
+  "artist": "Eminem ft. Juice WRLD",
+  "album": "Music to Be Murdered By",
+  "coverUrl": "/music/covers/godzilla.webp",
+  "audioUrl": "/music/Godzilla.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2020
+},
+{
+  "id": "28",
+  "title": "Lose Yourself",
+  "artist": "Eminem",
+  "album": "8 Mile: Music from and Inspired by the Motion Picture",
+  "coverUrl": "/music/covers/lose-yourself.webp",
+  "audioUrl": "/music/Lose Yourself.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2002
+},
+{
+  "id": "29",
+  "title": "Superman",
+  "artist": "Eminem",
+  "album": "The Eminem Show",
+  "coverUrl": "/music/covers/superman.webp",
+  "audioUrl": "/music/Superman.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2002
+},
+{
+  "id": "30",
+  "title": "Not Afraid",
+  "artist": "Eminem",
+  "album": "Recovery",
+  "coverUrl": "/music/covers/not-afraid.webp",
+  "audioUrl": "/music/Not Afraid.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2010
+},
+{
+  "id": "31",
+  "title": "Venom",
+  "artist": "Eminem",
+  "album": "Kamikaze",
+  "coverUrl": "/music/covers/venom.webp",
+  "audioUrl": "/music/Venom.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2018
+},
+{
+  "id": "32",
+  "title": "Till I Collapse",
+  "artist": "Eminem ft. Nate Dogg",
+  "album": "The Eminem Show",
+  "coverUrl": "/music/covers/till-i-collapse.webp",
+  "audioUrl": "/music/Till I Collapse.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2002
+},
+{
+  "id": "33",
+  "title": "Without Me",
+  "artist": "Eminem",
+  "album": "The Eminem Show",
+  "coverUrl": "/music/covers/without-me.webp",
+  "audioUrl": "/music/Without Me.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2002
+},
+{
+  "id": "34",
+  "title": "The Real Slim Shady",
+  "artist": "Eminem",
+  "album": "The Marshall Mathers LP",
+  "coverUrl": "/music/covers/the-real-slim-shady.webp",
+  "audioUrl": "/music/The Real Slim Shady.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2000
+},
+{
+  "id": "35",
+  "title": "My Name Is",
+  "artist": "Eminem",
+  "album": "The Slim Shady LP",
+  "coverUrl": "/music/covers/my-name-is.webp",
+  "audioUrl": "/music/My Name Is.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 1999
+},
+{
+  "id": "36",
+  "title": "Rap God",
+  "artist": "Eminem",
+  "album": "The Marshall Mathers LP 2",
+  "coverUrl": "/music/covers/rap-god.webp",
+  "audioUrl": "/music/Rap God.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2013
+},
+{
+  "id": "37",
+  "title": "Stan",
+  "artist": "Eminem ft. Dido",
+  "album": "The Marshall Mathers LP",
+  "coverUrl": "/music/covers/stan.webp",
+  "audioUrl": "/music/Stan.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2000
+},
+{
+  "id": "38",
+  "title": "Love the Way You Lie",
+  "artist": "Eminem ft. Rihanna",
+  "album": "Recovery",
+  "coverUrl": "/music/covers/love-the-way-you-lie.webp",
+  "audioUrl": "/music/Love the Way You Lie.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2010
+},
+{
+  "id": "39",
+  "title": "Beautiful",
+  "artist": "Eminem",
+  "album": "Relapse",
+  "coverUrl": "/music/covers/beautiful.webp",
+  "audioUrl": "/music/Beautiful.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2009
+},
+{
+  "id": "40",
+  "title": "Sing for the Moment",
+  "artist": "Eminem",
+  "album": "The Eminem Show",
+  "coverUrl": "/music/covers/sing-for-the-moment.webp",
+  "audioUrl": "/music/Sing for the Moment.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2002
+},
+{
+  "id": "41",
+  "title": "Criminal",
+  "artist": "Eminem",
+  "album": "The Marshall Mathers LP",
+  "coverUrl": "/music/covers/criminal.webp",
+  "audioUrl": "/music/Criminal.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2000
+},
+{
+  "id": "42",
+  "title": "Lucky You",
+  "artist": "Eminem ft. Joyner Lucas",
+  "album": "Kamikaze",
+  "coverUrl": "/music/covers/lucky-you.webp",
+  "audioUrl": "/music/Lucky You.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2018
+},
+{
+  "id": "43",
+  "title": "Houdini",
+  "artist": "Eminem",
+  "album": "The Death of Slim Shady (Coup de Grâce)",
+  "coverUrl": "/music/covers/houdini.webp",
+  "audioUrl": "/music/Houdini.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2024
+},
+{
+  "id": "44",
+  "title": "Kill You",
+  "artist": "Eminem",
+  "album": "The Marshall Mathers LP",
+  "coverUrl": "/music/covers/kill-you.webp",
+  "audioUrl": "/music/Kill You.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2000
+},
+{
+  "id": "45",
+  "title": "Business",
+  "artist": "Eminem",
+  "album": "The Eminem Show",
+  "coverUrl": "/music/covers/business.webp",
+  "audioUrl": "/music/Business.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2002
+},
+{
+  "id": "46",
+  "title": "Mockingbird",
+  "artist": "Eminem",
+  "album": "Encore",
+  "coverUrl": "/music/covers/mockingbird.webp",
+  "audioUrl": "/music/Mockingbird.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2004
+},
+{
+  "id": "47",
+  "title": "Tobey",
+  "artist": "Eminem ft. Big Sean & BabyTron",
+  "album": "The Death of Slim Shady (Coup de Grâce)",
+  "coverUrl": "/music/covers/tobey.webp",
+  "audioUrl": "/music/Tobey.mp3",
+  "genre": "Hip-Hop/Rap",
+  "year": 2024
+},
+{
+  "id": "48",
+  "title": "Aasa Kooda",
+  "artist": "Sai Abhyankkar ft. Sai Smriti",
+  "album": "Think Indie",
+  "coverUrl": "/music/covers/aasa-kooda.webp",
+  "audioUrl": "/music/Aasa Kooda.mp3",
+  "genre": "Indie Pop",
+  "year": 2024
+},
+{
+  "id": "50",
+  "title": "Sithira Puthiri",
+  "artist": "Sai Abhyankkar ft. Meenakshi Chaudhary",
+  "album": "Think Indie",
+  "coverUrl": "/music/covers/sithira-puthiri.webp",
+  "audioUrl": "/music/Sithira Puthiri.mp3",
+  "genre": "Indie Pop",
+  "year": 2025
+}
+]
